@@ -1,4 +1,4 @@
-import { HomeTemplate } from "@template/HomeTemplate";
+import HomeTemplate from "@template/HomeTemplate";
 import Head from "next/head";
 
 const Home = () => {

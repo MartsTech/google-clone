@@ -7,11 +7,8 @@
       "@section/*": ["components/sections/*"],
       "@template/*": ["components/templates/*"],
       "@layout/*": ["components/layouts/*"],
-      "@service/*": ["services/*"],
       "@util/*": ["utils/*"],
-      "@type/*": ["types/*"],
-      "@constant/*": ["constants/*"],
-      "@hook/*": ["hooks/*"]
+      "@style/*": ["styles/*"]
     },
     "outDir": "build/dist",
     "module": "esnext",

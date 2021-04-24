@@ -1,3 +1,4 @@
+import "@style/globals.css";
 import { AppProps } from "next/app";
 
 const MyApp = ({ Component, pageProps }: AppProps) => {
