@@ -4,6 +4,7 @@ import search from "@util/search";
 import Image from "next/image";
 import { useRouter } from "next/router";
 import { useRef } from "react";
+import HeaderOptions from "../../modules/Search/HeaderOptions";
 
 interface HeaderProps {}
 
@@ -54,6 +55,7 @@ const Header: React.FC<HeaderProps> = ({}) => {
           className="ml-auto"
         />
       </div>
+      <HeaderOptions />
     </header>
   );
 };
