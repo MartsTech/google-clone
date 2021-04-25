@@ -1,11 +1,14 @@
 import Header from "@section/Search/Header";
 
-interface SearchTemplateProps {}
+interface SearchTemplateProps {
+  results: JSX.Element;
+}
 
-const SearchTemplate: React.FC<SearchTemplateProps> = ({}) => {
+const SearchTemplate: React.FC<SearchTemplateProps> = ({ results }) => {
   return (
     <div>
       <Header />
+      {results}
     </div>
   );
 };
