@@ -30,6 +30,7 @@ const Header: React.FC<HeaderProps> = ({}) => {
           <input
             ref={searchInputRef}
             type="text"
+            defaultValue={router.query.term}
             className="flex-grow w-full focus:outline-none"
           />
           <XIcon
