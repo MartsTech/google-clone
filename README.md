@@ -25,7 +25,7 @@
 </p>
 
 ## Demo
-Here is a working live demo :  https://google-clone-red.vercel.app/
+Here is a working live demo : [here](https://google-clone-red.vercel.app)  
 
 ---
 
