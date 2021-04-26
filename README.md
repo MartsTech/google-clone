@@ -21,12 +21,19 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
+  <a href="#setup">Setup</a> •
   <a href="#Support">Support</a> •
   <a href="#license">License</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/MartsTech/google-clone/main/public/app.png)
+
+## Setup
+
+Clone this repo to your desktop and run `yarn install` to install all the dependencies.
+Then run `yarn dev` to start the application locally
+
+---
 
 ## Support
 
@@ -36,7 +43,10 @@ Whether you use this project, have learned something from it, or just like it, p
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
 </a>
 
+---
+
 ## License
+
 >You can check out the full license [here](https://github.com/MartsTech/google-clone/blob/main/LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
