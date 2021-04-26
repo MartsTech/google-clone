@@ -18,15 +18,16 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
+  <a href="#demo">Demo</a> •
   <a href="#setup">Setup</a> •
   <a href="#Support">Support</a> •
   <a href="#license">License</a>
 </p>
 
-    ![screenshot](https://raw.githubusercontent.com/MartsTech/google-clone/main/public/app.png)
+## Demo
+Here is a working live demo :  https://google-clone-red.vercel.app/
+
+---
 
 ## Setup
 
