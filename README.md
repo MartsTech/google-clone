@@ -26,7 +26,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/MartsTech/google-clone/main/public/app.png)
+    ![screenshot](https://raw.githubusercontent.com/MartsTech/google-clone/main/public/app.png)
 
 ## Setup
 
