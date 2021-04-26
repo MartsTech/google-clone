@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://google-clone-red.vercel.app">
-      <img width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google Logo" />
+      <img width="130px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google Logo" />
   </a>
   <br />
   Google-clone
-  <br>
+  <br />
 </h1>
 
 <h4 align="center">
