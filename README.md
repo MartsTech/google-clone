@@ -20,6 +20,7 @@
 <p align="center">
   <a href="#demo">Demo</a> •
   <a href="#key-features">Key Features</a> •
+  <a href="#key-technologies">Key Technologies</a> •
   <a href="#setup">Setup</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
@@ -40,7 +41,7 @@ Here is a working live demo [here](https://google-clone-red.vercel.app)
 
 ---
 
-## Technologies
+## Key Technologies
 
 - Next.JS
 - TailwindCSS
