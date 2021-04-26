@@ -19,13 +19,24 @@
 
 <p align="center">
   <a href="#demo">Demo</a> •
+  <a href="#features">Features</a> •
   <a href="#setup">Setup</a> •
   <a href="#Support">Support</a> •
   <a href="#license">License</a>
 </p>
 
+---
+
 ## Demo
 Here is a working live demo : [here](https://google-clone-red.vercel.app)  
+
+---
+
+## Features
+
+- Search Functionality
+- Responsive Design
+- Server Side Rendering
 
 ---
 
