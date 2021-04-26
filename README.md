@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">
-   Google Clone created with Next.JS and Google API</a>.
+   Google Clone created with Next.JS using TailwindCSS and Google API</a>.
 </h4>
 
 <p align="center">
