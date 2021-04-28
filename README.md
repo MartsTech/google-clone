@@ -26,6 +26,8 @@
   <a href="#license">License</a>
 </p>
 
+<img src="https://raw.githubusercontent.com/MartsTech/google-clone/main/public/app.png" />
+
 ---
 
 ## Demo
