@@ -14,7 +14,7 @@ const Header: React.FC<HeaderProps> = ({}) => {
         <p className="link">Gmail</p>
         <p className="link">Images</p>
         <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
-        <Avatar url="https://scontent.fsof5-1.fna.fbcdn.net/v/t1.6435-9/86382163_800893710418778_802688469468971008_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Gmag4d0eD70AX9BfaFp&_nc_ht=scontent.fsof5-1.fna&oh=4d2fd4d07ba6b9eaab8e0a9a9a688894&oe=60941630" />
+        <Avatar url="https://lh3.googleusercontent.com/a-/AOh14Gge4WVENvl9bdKUN7jaaE6RqaS-2o3F5Whp44Bf=s96-c" />
       </div>
     </header>
   );
