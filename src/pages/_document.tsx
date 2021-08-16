@@ -10,7 +10,6 @@ class Document extends NextDocument {
             content="Google Clone created using Next.JS"
           />
           <meta name="theme-color" content="#ffffff" />
-          <meta name="robots" content="noindex" />
           <link rel="icon" href="/meta/favicon.ico" />
           <link rel="apple-touch-icon" href="/meta/favicon.ico" />
           <link rel="mask-icon" href="/meta/mask-icon.svg" color={"#000000"} />
