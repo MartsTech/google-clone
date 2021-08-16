@@ -30,6 +30,10 @@
 
 ---
 
+![Searchpage Screenshot](public/screenshots/search.png?raw=true "Searchpage Screenshot")
+
+---
+
 ## Demo
 
 Here is a working live demo [here](https://google-clone-red.vercel.app)
