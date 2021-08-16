@@ -1,39 +1,27 @@
-import SearchResults from "@section/Search/SearchResults";
-import searchMockData from "@service/searchMockData";
-import SearchTemplate from "@template/SearchTemplate";
+import searchMock from "data/seachMock.json";
+import Search from "modules/search/Search";
 import { GetServerSideProps } from "next";
-import Head from "next/head";
-import { useRouter } from "next/router";
+import { SearchResults } from "types/searchResults";
 
-interface SearchProps {
-  results: typeof searchMockData;
+interface ResultsPageProps {
+  results: SearchResults;
 }
 
-const Search: React.FC<SearchProps> = ({ results }) => {
-  const router = useRouter();
-
-  return (
-    <div>
-      <Head>
-        <title>{router.query.term} - Search Results</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <SearchTemplate results={<SearchResults results={results} />} />
-    </div>
-  );
+const SearchPage: React.FC<ResultsPageProps> = ({ results }) => {
+  return <Search results={results} />;
 };
 
-export default Search;
+export default SearchPage;
 
 export const getServerSideProps: GetServerSideProps = async (context) => {
   const useMockData = process.env.NODE_ENV === "development";
   const startIndex = context.query.start || "0";
 
   const data = useMockData
-    ? searchMockData
+    ? searchMock
     : await fetch(
         `https://www.googleapis.com/customsearch/v1?key=${process.env.GOOGLE_API_KEY}
-        &cx=${process.env.GOOGLE_CONTEXT_KEY}&q=${context.query.term}&start=${startIndex}`
+          &cx=${process.env.GOOGLE_CONTEXT_KEY}&q=${context.query.term}&start=${startIndex}`
       ).then((res) => res.json());
 
   return {

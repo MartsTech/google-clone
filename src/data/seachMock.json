@@ -1,0 +1,351 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - Next.Js",
+        "totalResults": "9",
+        "searchTerms": "Next.Js",
+        "count": 9,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "ebfea37b21471b387"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.774089,
+    "formattedSearchTime": "0.77",
+    "totalResults": "9",
+    "formattedTotalResults": "9"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Frontend First",
+      "htmlTitle": "Frontend First",
+      "link": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9zT0pBTW9oUA%3D%3D",
+      "displayLink": "www.google.com",
+      "snippet": "Ryan tells Sam about an image uploading solution he built for one of his Next.js apps. They discuss how Next.js's integrated frontend and backend allow for ...",
+      "htmlSnippet": "Ryan tells Sam about an image uploading solution he built for one of his <b>Next</b>.<b>js</b> apps. They discuss how <b>Next</b>.<b>js&#39;s</b> integrated frontend and backend allow for&nbsp;...",
+      "cacheId": "3ctB7BNhATcJ",
+      "formattedUrl": "https://www.google.com/podcasts?feed...",
+      "htmlFormattedUrl": "https://www.google.com/podcasts?feed...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROmd_AGvUhGY2iP20N3j6RNthW7iJ9Ag1o_qHP6W3_-S-3QGs",
+            "apple-itunes-app": "app-id=1398000105, affiliate-data=ct=podcastsSmartBannerShow001&pt=9008, app-argument=https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9zT0pBTW9oUA",
+            "og:type": "music.radio_station",
+            "twitter:card": "summary",
+            "twitter:title": "Frontend First",
+            "og:site_name": "Google Podcasts",
+            "og:title": "Frontend First",
+            "music:creator": "Frontend First",
+            "title": "Frontend First",
+            "og:description": "A podcast about modern UI development on the web. Hosted by Sam Selikoff and Ryan Toronto.",
+            "twitter:creator": "Frontend First",
+            "article:author": "Frontend First",
+            "twitter:image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROmd_AGvUhGY2iP20N3j6RNthW7iJ9Ag1o_qHP6W3_-S-3QGs",
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "og:url": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9zT0pBTW9oUA"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROmd_AGvUhGY2iP20N3j6RNthW7iJ9Ag1o_qHP6W3_-S-3QGs"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Learning Curve",
+      "htmlTitle": "Learning Curve",
+      "link": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zOWQ5YjE0L3BvZGNhc3QvcnNz",
+      "displayLink": "www.google.com",
+      "snippet": "... are learning. An informal conversation between UX Thinker and a JS Dev. ... In this episode, we talk about our first impressions on NextJS. Do we not like ...",
+      "htmlSnippet": "... are learning. An informal conversation between UX Thinker and a JS Dev. ... In this episode, we talk about our first impressions on <b>NextJS</b>. Do we not like&nbsp;...",
+      "cacheId": "6x1RKiCubOIJ",
+      "formattedUrl": "https://www.google.com/podcasts?feed...",
+      "htmlFormattedUrl": "https://www.google.com/podcasts?feed...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR89Y1L-MFIyqqP9STC1CzoSdqjJStS8vWl88CoActaSi0WFdg",
+            "apple-itunes-app": "app-id=1398000105, affiliate-data=ct=podcastsSmartBannerShow001&pt=9008, app-argument=https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zOWQ5YjE0L3BvZGNhc3QvcnNz",
+            "og:type": "music.radio_station",
+            "twitter:card": "summary",
+            "twitter:title": "Learning Curve",
+            "og:site_name": "Google Podcasts",
+            "og:title": "Learning Curve",
+            "music:creator": "Learning Curve",
+            "title": "Learning Curve",
+            "og:description": "Ease the curve as we share what we are learning. 📈\n🎙 An informal conversation between UX Thinker and a JS Dev.",
+            "twitter:creator": "Learning Curve",
+            "article:author": "Learning Curve",
+            "twitter:image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR89Y1L-MFIyqqP9STC1CzoSdqjJStS8vWl88CoActaSi0WFdg",
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "og:url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zOWQ5YjE0L3BvZGNhc3QvcnNz"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR89Y1L-MFIyqqP9STC1CzoSdqjJStS8vWl88CoActaSi0WFdg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "webdev",
+      "htmlTitle": "webdev",
+      "link": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85MTJjYTYwL3BvZGNhc3QvcnNz",
+      "displayLink": "www.google.com",
+      "snippet": "js the \"next\" react framework! https://github.com/meyer9/postqueue - postqueue was written by Julian and is open source. Julian is the lead developer of the Phore ...",
+      "htmlSnippet": "<b>js</b> the &quot;<b>next</b>&quot; react framework! https://github.com/meyer9/postqueue - postqueue was written by Julian and is open source. Julian is the lead developer of the Phore&nbsp;...",
+      "cacheId": "pZWrgzzUf8MJ",
+      "formattedUrl": "https://www.google.com/podcasts?feed...",
+      "htmlFormattedUrl": "https://www.google.com/podcasts?feed...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzRIAtTeUlQIo6HBlrwy9qmaoa9frZLDUKlX7JGjFBEItdBzw",
+            "apple-itunes-app": "app-id=1398000105, affiliate-data=ct=podcastsSmartBannerShow001&pt=9008, app-argument=https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85MTJjYTYwL3BvZGNhc3QvcnNz",
+            "og:type": "music.radio_station",
+            "twitter:card": "summary",
+            "twitter:title": "webdev",
+            "og:site_name": "Google Podcasts",
+            "og:title": "webdev",
+            "music:creator": "webdev",
+            "title": "webdev",
+            "og:description": "Podcast interviewing people from the reddit webdev with 340,000 members. Discussion about software development, web development, web dev, html, css, javascript, full stack, front-end, back-end, devops and everything in between.",
+            "twitter:creator": "webdev",
+            "article:author": "webdev",
+            "twitter:image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzRIAtTeUlQIo6HBlrwy9qmaoa9frZLDUKlX7JGjFBEItdBzw",
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "og:url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85MTJjYTYwL3BvZGNhc3QvcnNz"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzRIAtTeUlQIo6HBlrwy9qmaoa9frZLDUKlX7JGjFBEItdBzw"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ladybug Podcast",
+      "htmlTitle": "Ladybug Podcast",
+      "link": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9sYWR5YnVnLXBvZGNhc3Q=",
+      "displayLink": "www.google.com",
+      "snippet": "One of the hottest new technologies in the frontend ecosystem is Next.js. ... :// github.com/ladybug-podcast/ladybug-website/blob/master/transcripts/60-nextjs. md.",
+      "htmlSnippet": "One of the hottest new technologies in the frontend ecosystem is <b>Next</b>.<b>js</b>. ... :// github.com/ladybug-podcast/ladybug-website/blob/master/transcripts/60-<b>nextjs</b>. md.",
+      "cacheId": "ZabdBx3av9UJ",
+      "formattedUrl": "https://www.google.com/podcasts?feed...",
+      "htmlFormattedUrl": "https://www.google.com/podcasts?feed...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7nYksNsuDgApWgkQQan0svYSRgxD5h1p20V5Qk1WPbvRH5c",
+            "apple-itunes-app": "app-id=1398000105, affiliate-data=ct=podcastsSmartBannerShow001&pt=9008, app-argument=https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9sYWR5YnVnLXBvZGNhc3Q",
+            "og:type": "music.radio_station",
+            "twitter:card": "summary",
+            "twitter:title": "Ladybug Podcast",
+            "og:site_name": "Google Podcasts",
+            "og:title": "Ladybug Podcast",
+            "music:creator": "Ladybug Podcast",
+            "title": "Ladybug Podcast",
+            "og:description": "We're Emma Bostian, Sidney Buckner, Kelly Vaughn, and Ali Spittel - four seasoned software developers working in different sectors. Since there's a major lack of technical podcasts out there, we've decided to start one. Just kidding -- there's already a ton! But, we wanted to add our voices to the space and share our experiences and advice. We'll have great discussions around how to start coding, the hot technologies right now, how to get your first developer job, and more!",
+            "twitter:creator": "Ladybug Podcast",
+            "article:author": "Ladybug Podcast",
+            "twitter:image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7nYksNsuDgApWgkQQan0svYSRgxD5h1p20V5Qk1WPbvRH5c",
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "og:url": "https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9sYWR5YnVnLXBvZGNhc3Q"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7nYksNsuDgApWgkQQan0svYSRgxD5h1p20V5Qk1WPbvRH5c"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Smashing Podcast",
+      "htmlTitle": "Smashing Podcast",
+      "link": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NtYXNoaW5n",
+      "displayLink": "www.google.com",
+      "snippet": "What's Next For HTML Controls? with Stephanie Stimac and Melanie Richards. In this episode ... What is Next.js? with Guillermo Rauch. We're talking about ...",
+      "htmlSnippet": "What&#39;s Next For HTML Controls? with Stephanie Stimac and Melanie Richards. In this episode ... What is <b>Next</b>.<b>js</b>? with Guillermo Rauch. We&#39;re talking about&nbsp;...",
+      "cacheId": "sPVQrMZyu8QJ",
+      "formattedUrl": "https://www.google.com/podcasts?feed...",
+      "htmlFormattedUrl": "https://www.google.com/podcasts?feed...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuu_RIUBH2HCwZXzZ7Odbl7ygtNJf4mdL-KSRIFpUmBNgeSCBQ",
+            "apple-itunes-app": "app-id=1398000105, affiliate-data=ct=podcastsSmartBannerShow001&pt=9008, app-argument=https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NtYXNoaW5n",
+            "og:type": "music.radio_station",
+            "twitter:card": "summary",
+            "twitter:title": "Smashing Podcast",
+            "og:site_name": "Google Podcasts",
+            "og:title": "Smashing Podcast",
+            "music:creator": "Smashing Podcast",
+            "title": "Smashing Podcast",
+            "og:description": "An interview show from your friends at Smashing Magazine. Drew McLellan talks to design and development experts about their work on the web, as well as catching you up with the latest news and articles at Smashing Magazine. Suitable for cats.",
+            "twitter:creator": "Smashing Podcast",
+            "article:author": "Smashing Podcast",
+            "twitter:image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuu_RIUBH2HCwZXzZ7Odbl7ygtNJf4mdL-KSRIFpUmBNgeSCBQ",
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "og:url": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NtYXNoaW5n"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuu_RIUBH2HCwZXzZ7Odbl7ygtNJf4mdL-KSRIFpUmBNgeSCBQ"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "AppLab",
+      "htmlTitle": "AppLab",
+      "link": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zODI0YjY3NC9wb2RjYXN0L3Jzcw==",
+      "displayLink": "www.google.com",
+      "snippet": "Today we're deep-diving into developer topics with Tim Neutkens, who leads Next.js team at Vercel and is proof that you don't need to know everything to create ...",
+      "htmlSnippet": "Today we&#39;re deep-diving into developer topics with Tim Neutkens, who leads <b>Next</b>.<b>js</b> team at Vercel and is proof that you don&#39;t need to know everything to create&nbsp;...",
+      "cacheId": "5A76sE1f0goJ",
+      "formattedUrl": "https://www.google.com/podcasts?feed...",
+      "htmlFormattedUrl": "https://www.google.com/podcasts?feed...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSss1cIrka579ezE71uYJ8L4NlGg6h6h7o9Qm5DiJJuvJpDpAw",
+            "apple-itunes-app": "app-id=1398000105, affiliate-data=ct=podcastsSmartBannerShow001&pt=9008, app-argument=https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zODI0YjY3NC9wb2RjYXN0L3Jzcw",
+            "og:type": "music.radio_station",
+            "twitter:card": "summary",
+            "twitter:title": "AppLab",
+            "og:site_name": "Google Podcasts",
+            "og:title": "AppLab",
+            "music:creator": "AppLab",
+            "title": "AppLab",
+            "og:description": "AppLab breaks down the barriers to app development through stories and chats with experts, builders, and software educators.\n\nA special collaboration of AppGyver x ReactSeals.",
+            "twitter:creator": "AppLab",
+            "article:author": "AppLab",
+            "twitter:image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSss1cIrka579ezE71uYJ8L4NlGg6h6h7o9Qm5DiJJuvJpDpAw",
+            "referrer": "origin",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui",
+            "og:url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zODI0YjY3NC9wb2RjYXN0L3Jzcw"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSss1cIrka579ezE71uYJ8L4NlGg6h6h7o9Qm5DiJJuvJpDpAw"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cross-Site Scripting – Application Security – Google",
+      "htmlTitle": "Cross-Site Scripting – Application Security – Google",
+      "link": "https://www.google.com/about/appsecurity/learning/xss/",
+      "displayLink": "www.google.com",
+      "snippet": "... an XSS bug). Take a look at the next example for a more malicious script. ... createElement('script');s.src='//xss-doc.appspot.com/static/evil.js';document.body.",
+      "htmlSnippet": "... an XSS bug). Take a look at the <b>next</b> example for a more malicious script. ... createElement(&#39;script&#39;);s.src=&#39;//xss-doc.appspot.com/static/evil.<b>js</b>&#39;;document.body.",
+      "cacheId": "dOZqrO41xLQJ",
+      "formattedUrl": "https://www.google.com/about/appsecurity/learning/xss/",
+      "htmlFormattedUrl": "https://www.google.com/about/appsecurity/learning/xss/",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Chrome Privacy Whitepaper",
+      "htmlTitle": "Google Chrome Privacy Whitepaper",
+      "link": "https://www.google.com/chrome/privacy/whitepaper.html",
+      "displayLink": "www.google.com",
+      "snippet": "Feb 4, 2021 ... Network predictions. Chrome uses a service to predict which resources and pages are likely to be needed next in order to load pages more ...",
+      "htmlSnippet": "Feb 4, 2021 <b>...</b> Network predictions. Chrome uses a service to predict which resources and pages are likely to be needed <b>next</b> in order to load pages more&nbsp;...",
+      "cacheId": "t67Y-xu-jmsJ",
+      "formattedUrl": "https://www.google.com/chrome/privacy/whitepaper.html",
+      "htmlFormattedUrl": "https://www.google.com/chrome/privacy/whitepaper.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRjERkm-H9sPK13aNKETxr25pxaNFgravJgL4SAUU0iKirHVhUMQ5Oig",
+            "width": "48",
+            "height": "48"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-config": "/chrome/static/images/favicons/browserconfig.xml",
+            "og:image": "https://www.google.com/chrome/static/images/chrome-logo.svg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Google Chrome Privacy Whitepaper",
+            "og:type": "website",
+            "twitter:url": "https://www.google.com/chrome/privacy/whitepaper.html",
+            "og:title": "Google Chrome Privacy Whitepaper",
+            "og:description": "Google Chrome Privacy Whitepaper",
+            "twitter:image": "https://www.google.com/chrome/static/images/chrome-logo.svg",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Google Chrome Privacy Whitepaper",
+            "og:locale": "en_US",
+            "og:url": "https://www.google.com/chrome/privacy/whitepaper.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/chrome/static/images/chrome-logo.svg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google",
+      "htmlTitle": "Google",
+      "link": "http://www.google.com/setprefdomain?prefdom=CZ&prev=http://www.google.cz/&sig=K_h3ASSZ81O_LzEnO5HaVJW-pDDbg%3D",
+      "displayLink": "www.google.com",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking ...",
+      "htmlSnippet": "Search the world&#39;s information, including webpages, images, videos and more. Google has many special features to help you find exactly what you&#39;re looking&nbsp;...",
+      "cacheId": "7AwRIHKo03YJ",
+      "formattedUrl": "www.google.com/setprefdomain?prefdom=CZ&prev=http://...",
+      "htmlFormattedUrl": "www.google.com/setprefdomain?prefdom=CZ&amp;prev=http://...",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "viewport": "width=device-width,minimum-scale=1.0",
+            "google": "notranslate",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,16 +1,7 @@
-import HomeTemplate from "@template/HomeTemplate";
-import Head from "next/head";
+import Home from "modules/home/Home";
 
-const Home = () => {
-  return (
-    <div>
-      <Head>
-        <title>Google Clone</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <HomeTemplate />
-    </div>
-  );
+const HomePage = () => {
+  return <Home />;
 };
 
-export default Home;
+export default HomePage;
