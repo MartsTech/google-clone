@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://google-clone-red.vercel.app">
+  <a href="https://google-clone-martstech.vercel.app">
       <img width="130px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google Logo" />
   </a>
   <br />
@@ -26,12 +26,13 @@
   <a href="#license">License</a>
 </p>
 
-<img src="https://raw.githubusercontent.com/MartsTech/google-clone/main/public/app.png" />
+![Homepage Screenshot](public/screenshots/home.png?raw=true "Homepage Screenshot")
 
 ---
 
 ## Demo
-Here is a working live demo [here](https://google-clone-red.vercel.app)  
+
+Here is a working live demo [here](https://google-clone-red.vercel.app)
 
 ---
 
@@ -56,6 +57,12 @@ Here is a working live demo [here](https://google-clone-red.vercel.app)
 Clone this repo to your desktop and run `yarn install` to install all the dependencies.
 Then run `yarn dev` to start the application locally
 
+Get an Api Key from [here](https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key)
+
+Get an Context Key from [here](https://cse.google.com/cse/create/new)
+
+Change the .env.example file to .env.local and fill the empty fields
+
 ---
 
 ## Support
@@ -70,6 +77,6 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ## License
 
->You can check out the full license [here](https://github.com/MartsTech/google-clone/blob/main/LICENSE)
+> You can check out the full license [here](https://github.com/MartsTech/google-clone/blob/main/LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
