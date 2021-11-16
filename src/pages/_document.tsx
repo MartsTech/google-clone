@@ -11,8 +11,8 @@ class Document extends NextDocument {
           />
           <meta name="theme-color" content="#ffffff" />
           <link rel="icon" href="/meta/favicon.ico" />
-          <link rel="apple-touch-icon" href="/meta/favicon.ico" />
-          <link rel="mask-icon" href="/meta/mask-icon.svg" color={"#000000"} />
+          <link href="/meta/favicon.ico" />
+          <link href="/meta/mask-icon.svg" color={"#000000"} />
           <link rel="manifest" href="/meta/manifest.json" />
         </Head>
         <body>
