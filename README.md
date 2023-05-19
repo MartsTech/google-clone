@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://google-clone-martstech.vercel.app">
-      <img width="130px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google Logo" />
-  </a>
+  <img width="130px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google Logo" />
   <br />
   Google-clone
   <br />
@@ -18,7 +16,6 @@
 </p>
 
 <p align="center">
-  <a href="#demo">Demo</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#key-technologies">Key Technologies</a> •
   <a href="#setup">Setup</a> •
@@ -31,12 +28,6 @@
 ---
 
 ![Searchpage Screenshot](public/screenshots/search.png?raw=true "Searchpage Screenshot")
-
----
-
-## Demo
-
-Here is a working live demo [here](https://google-clone-martstech.vercel.app)
 
 ---
 
